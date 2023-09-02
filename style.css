@@ -1,0 +1,10 @@
+.header {
+    display: flex;
+    background-color: #1F2937;
+   color: white;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+}
